@@ -1,0 +1,21 @@
+﻿ID,Name,Description,lastSold,ShelfLife,Department,Price,Unit,xFor,Cost
+753542,Banana,banana,2017/9/5,4d,Produce,2.99,lb,1,0.44
+321654,Apples,apples,2017/9/6,7d,Produce,1.49,lb,1,0.20
+95175,Strawberry,Strawberry,2017/9/7,3d,Produce,2.49,lb,1,0.10
+321753,Onion,onion,2017/9/8,9d,Produce,1.00,Each,1,0.05
+987654,Tomato,Tomato,2017/9/9,4d,Produce,2.35,lb,1,0.20
+11122,Grapes,grapes,2017/9/10,7d,Produce,4.00,lb,1,1.20
+124872,Lettuce,Lettuce,2017/9/11,5d,Produce,0.79,lb,1,0.10
+113,Bread,bread,2017/9/12,14d,Grocery,1.50,Each,1,0.12
+1189,Hamburger Buns,hamburger buns,2017/9/13,14d,Grocery,1.75,Each,1,0.14
+12221,Pasta Sauce,pasta sauce,2017/9/14,23d,Grocery,3.75,Each,1,1.00
+1111,Cheese Slices,cheese slices,2017/9/15,20d,Grocery,2.68,Each,1,0.40
+18939,Sliced Turkey,sliced turkey,2017/9/16,20d,Grocery,3.29,Each,1,0.67
+90879,Tortilla Chips,tortilla chips,2017/9/17,45d,Grocery,1.99,Each,1,0.14
+119290,Cereal,cereal,2017/9/18,40d,Grocery,3.19,Each,1,0.19
+4629464,Canned Vegtables,canned vegtables,2017/9/19,200d,Grocery,1.89,Each,1,0.19
+9000001,Headache Medicine,headache medicine,2017/9/20,365d,Pharmacy,4.89,Each,1,1.90
+9000002,Migraine Medicine,Migraine Medicine,2017/9/21,365d,Pharmacy,5.89,Each,1,1.90
+9000003,Cold and Flu,Cold and Flu,2017/9/22,365d,Pharmacy,3.29,Each,1,1.90
+9000004,Allegry Medicine,Allegry Medicine,2017/9/23,365d,Pharmacy,3.00,Each,1,1.25
+9000005,Pain,Pain,2017/9/24,365d,Pharmacy,2.89,Each,1,1.00
